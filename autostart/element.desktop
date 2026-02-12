@@ -1,0 +1,9 @@
+[Desktop Entry]
+Type=Application
+Exec=element-desktop
+Hidden=false
+NoDisplay=false
+X-GNOME-Autostart-enabled=true
+Name=Element-Desktop
+Comment=Start Element-Desktop on login
+

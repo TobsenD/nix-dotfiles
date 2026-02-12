@@ -1,0 +1,9 @@
+[Desktop Entry]
+Type=Application
+Exec=signal-desktop
+Hidden=false
+NoDisplay=false
+X-GNOME-Autostart-enabled=true
+Name=Signal-Desktop
+Comment=Start Signal-Desktop on login
+

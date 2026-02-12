@@ -1,0 +1,9 @@
+[Desktop Entry]
+Type=Application
+Exec=thunderbird
+Hidden=false
+NoDisplay=false
+X-GNOME-Autostart-enabled=true
+Name=Thunderbird
+Comment=Start Thunderbird on login
+
