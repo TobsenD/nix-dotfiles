@@ -1,0 +1,9 @@
+[Desktop Entry]
+Type=Application
+Exec=synology-drive
+Hidden=true
+NoDisplay=false
+X-GNOME-Autostart-enabled=true
+Name=synology-drive
+Comment=Start synology-drive on login
+
